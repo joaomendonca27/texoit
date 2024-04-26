@@ -42,4 +42,4 @@ Foi utilizado no projeto as bibliotecas
 
 ## Autor
 
-- [João Henrique Mariani de Mendonça](https://www.github.com/octokatherine)
+- [João Henrique Mariani de Mendonça](https://www.github.com/joaomendonca27)
